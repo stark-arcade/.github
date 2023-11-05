@@ -1,4 +1,6 @@
-# .github
+## About us
+
+    Delcogen Lab
 
 # Project Complete Build
 
@@ -25,3 +27,4 @@ Insert gif or link to demo (Update Soon)
 ## Authors
 
 - [@karas](https://github.com/Kafierence)
+- [@]()
