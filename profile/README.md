@@ -8,3 +8,4 @@ DeColGen is a Web3 Development Lab, dedicated to exploring the identity and owne
 
 - [@karas](https://github.com/Kafierence)
 - [@Brian](https://github.com/briansinw3b)
+- [@Tony](https://github.com/duongtuancntt)
