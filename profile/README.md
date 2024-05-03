@@ -20,7 +20,6 @@ DeColGen is a Web3 Development Lab, dedicated to exploring the identity and owne
 
 ## Members
 
-- [@Mabuu](https://github.com/goodbuu)
 - [@Karas](https://github.com/karasbuilder)
 - [@Brian](https://github.com/briansinw3b)
 
