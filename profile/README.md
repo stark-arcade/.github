@@ -9,7 +9,7 @@ DeColGen is a Web3 Development Lab, dedicated to exploring the identity and owne
 ## Projects
 | Project  | Description                     | Repository                                     | Live Project                                          |
 | -------- | ------------------------------- | ---------------------------------------------- | ------------------------------------------------------- |
-| `StarkFlips` | The first product with upcominng Beta will be a CoinFlip game, allowing folks to place bets and multiply their $ETH holdings on Starknet.. | [Link](https://github.com/decolgen-labs/StarkFlip-contract) | [Live](https://coinflip.decolgenlabs.com/) |
+| `StarkFlips` | The first product with upcominng Beta will be a CoinFlip game, allowing folks to place random  and multiply their $ETH holdings on Starknet.. | [Link](https://github.com/decolgen-labs/StarkFlip-contract) | [Live](https://coinflip.decolgenlabs.com/) |
 |`StarkPot`|Lottery offers decentralised, open and fair lottery using next-generation on-chain randomness.|[Link](https://github.com/decolgen-labs/stark-lottery-contract)|[Live](https://starkpot.starkarcade.com/)
 |`StarkHub`| StarkArcade Hub (upcomming)||[Live](https://www.starkarcade.com/)|
 |`Teris Game`| StarkArcade Hub - Teris Game Onchain Starknet (upcomming)|||
