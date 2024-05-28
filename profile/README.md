@@ -14,6 +14,9 @@ DeColGen is a Web3 Development Lab, dedicated to exploring the identity and owne
 |`StarkHub`| StarkArcade Hub (upcomming)||[Live](https://www.starkarcade.com/)|
 |`Teris Game`| StarkArcade Hub - Teris Game Onchain Starknet (upcomming)|||
 |`2048 Game `| StarkArcade Hub - 2048 Game OnChain Starknet (upcomming)|||
+|`Brush Hit`| StarkArcade Hub -  Game Unity OnChain Starknet (upcomming)|||
+|`John Lemon's Haunted Jaunt`| StarkArcade Hub - Game Unity OnChain Starknet (upcomming)|||
+
 
 ## Contact Us
 
