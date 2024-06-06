@@ -14,7 +14,7 @@ DeColGen is a Web3 Development Lab, dedicated to exploring the identity and owne
 |`Teris Game`| StarkArcade Hub - Teris Game Onchain Starknet|[Link](https://github.com/decolgen-labs/tetris-game)|[Live](https://tetris-game.starkarcade.com)|
 |`2048 Game `| StarkArcade Hub - 2048 Game OnChain Starknet |[Link](https://github.com/decolgen-labs/2048-game)|[Live](https://2048-game.starkarcade.com)|
 |`Brush Hit`| StarkArcade Hub -  Game Unity OnChain Starknet (upcomming)|||
-|`John Lemon's Haunted Jaunt`| StarkArcade Hub - Game Unity OnChain Starknet (upcomming)|||
+
 
 
 ## Contact Us
