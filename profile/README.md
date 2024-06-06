@@ -18,10 +18,6 @@ DeColGen is a Web3 Development Lab, dedicated to exploring the identity and owne
 
 
 ## Contact Us
+Email: decolgenlabs@gmail.com
 
-
-## Members
-
-- [@Karas](https://github.com/karasbuilder)
-- [@Brian](https://github.com/briansinw3b)
 
