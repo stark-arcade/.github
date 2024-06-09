@@ -19,6 +19,7 @@ DeColGen is a Web3 Development Lab, dedicated to exploring the identity and owne
 
 ## Contact Us
 Email: decolgenlabs@gmail.com
-Telegram: @senkuu1209, @LiamTheDawn
+
+Telegram: [@senkuu1209](https://t.me/senkuu1209), [@LiamTheDawn](https://t.me/LiamTheDawn)
 
 
