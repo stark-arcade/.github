@@ -13,7 +13,8 @@ DeColGen is a Web3 Development Lab, dedicated to exploring the identity and owne
 |`StarkHub`| StarkArcade Hub (upcomming)||[Live](https://www.starkarcade.com/)|
 |`Teris `| StarkArcade Hub - Teris Game Onchain Starknet|[Link](https://github.com/decolgen-labs/tetris-game)|[Live](https://tetris-game.starkarcade.com)|
 |`2048  `| StarkArcade Hub - 2048 Game OnChain Starknet |[Link](https://github.com/decolgen-labs/2048-game)|[Live](https://2048-game.starkarcade.com)|
-|`Brush Hit`| StarkArcade Hub -  Game Unity OnChain Starknet (upcomming)|||
+|`Stark Sweep`| StarkArcade Hub -  Game Unity OnChain Starknet (upcomming)|[Link](https://github.com/decolgen-labs/BrushHit-unity)|[Live](https://starksweep.starkarcade.com/)|
+
 
 
 
