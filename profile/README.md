@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Decolgen Lab</h1>
-  <h2>The Cool Generation</h2>
+  <h2>STARK Arcade</h2>
 </div>
 <p> 
 DeColGen is a Web3 Development Lab, dedicated to exploring the identity and ownership of digital assets in integration with gamified experience to push forward the multi-chain adoption of NFT.
