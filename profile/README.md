@@ -1,9 +1,8 @@
 <div align="center">
-    <h1>Decolgen Lab</h1>
-  <h2>STARK Arcade</h2>
+  <h1>STARK Arcade</h1>
 </div>
 <p> 
-DeColGen is a Web3 Development Lab, dedicated to exploring the identity and ownership of digital assets in integration with gamified experience to push forward the multi-chain adoption of NFT.
+StarkArcade Hub for Game in Starknet.
 </p>
 
 ## Projects
