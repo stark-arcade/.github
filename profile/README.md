@@ -19,5 +19,4 @@
 
 ## 📬 Contact Us
 
-- **Email:** [decolgenlabs@gmail.com](mailto:decolgenlabs@gmail.com)  
 - **Telegram:** [@senkuu1209](https://t.me/senkuu1209) · [@LiamTheDawn](https://t.me/LiamTheDawn)
